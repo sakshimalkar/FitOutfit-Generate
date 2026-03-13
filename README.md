@@ -1,4 +1,4 @@
-# ✨ Vêtu — Digital Closet App
+# ✨FitOutfit — Digital Closet App
 
 > **Your wardrobe, curated.**
 
