@@ -5,7 +5,7 @@
 Vêtu is a luxury-styled digital closet web app built with **React** and **Vite**. Upload your clothing photos, organise them by category, generate random outfit combinations in one click, and save your favourite looks — all stored persistently in your browser.
 
 🔗 **Live Demo:** 
-
+https://sakshimalkar.github.io/FitOutfit-Generate/
 ---
 
 ## 🚀 Features
