@@ -385,7 +385,7 @@ export default function DigitalCloset() {
           <div className="header-brand">
             <div className="header-logo">✨</div>
             <div className="header-text">
-              <h1>Vêtu</h1>
+              <h1>OutfitCheck</h1>
               <p>Your wardrobe, curated.</p>
               <div className="storage-badge">💾 Auto-saved to your browser</div>
             </div>
